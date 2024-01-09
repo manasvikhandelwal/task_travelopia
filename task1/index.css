@@ -1,0 +1,23 @@
+.ex-locale-switcher__container{
+    padding: 10px;
+    color: #fff;
+  text-align: center;
+}
+.ex-locale-switcher__select{
+    display: block;
+    width: auto;
+    height: 32px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: inherit;
+    background-color: transparent;
+    border: none;
+}
+.ex-locale-switcher__close{
+    width: auto;
+}
+#menu-item-100684{
+    float: right !important;
+}
+
+.cls-1{fill:#496161}.cls-1,.cls-2,.cls-3{stroke-width:0}.cls-2{fill:#4a6262}.cls-3{fill:#1298ad}
